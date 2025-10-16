@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "veteranPortal": "Veteran Portal",
+    "consultantDashboard": "Consultant Dashboard"
+  },
+  "home": {
+    "title": "Your Trusted Partner in Veterans Benefits",
+    "subtitle": "Professional advocacy and consulting services to help veterans navigate the complex benefits system and secure the compensation they've earned.",
+    "heroButton1": "Veteran Portal",
+    "heroButton2": "Consultant Dashboard"
+  },
+  "features": {
+    "expertGuidance": {
+      "title": "Expert Guidance",
+      "description": "Professional consultants with deep knowledge of VA systems and regulations"
+    },
+    "securePlatform": {
+      "title": "Secure Platform", 
+      "description": "Bank-level security to protect your sensitive personal and medical information"
+    },
+    "dedicatedSupport": {
+      "title": "Dedicated Support",
+      "description": "One-on-one support throughout your entire claims process"
+    },
+    "aiAnalysis": {
+      "title": "AI-Powered Analysis",
+      "description": "Advanced technology to strengthen your claims and identify missing evidence"
+    },
+    "documentManagement": {
+      "title": "Document Management",
+      "description": "Organized storage and tracking of all your important claim documents"
+    },
+    "mentalHealthSupport": {
+      "title": "Mental Health Support",
+      "description": "Resources and check-ins to support your overall wellbeing"
+    }
+  },
+  "stats": {
+    "successRate": "Success Rate",
+    "benefitsSecured": "Benefits Secured", 
+    "veteransServed": "Veterans Served",
+    "avgResolutionTime": "Avg. Resolution Time"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "signInSubtitle": "Sign in to your KAL Claims Companion account",
+    "createAccount": "Create Account",
+    "registerSubtitle": "Join KAL Claims Companion today",
+    "veteran": "Veteran",
+    "consultant": "Consultant",
+    "email": "Email Address",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "confirmPassword": "Confirm Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "signInHere": "Sign in here",
+    "signUpHere": "Sign up here",
+    "securityNotice": "Your data is protected with bank-level security",
+    "encryptionNotice": "Your information is encrypted and secure"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "close": "Close"
+  }
+}

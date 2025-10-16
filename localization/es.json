@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "signIn": "Iniciar Sesión",
+    "getStarted": "Comenzar",
+    "veteranPortal": "Portal de Veteranos",
+    "consultantDashboard": "Panel de Consultor"
+  },
+  "home": {
+    "title": "Su Socio de Confianza en Beneficios para Veteranos",
+    "subtitle": "Servicios profesionales de defensa y consultoría para ayudar a los veteranos a navegar el complejo sistema de beneficios y asegurar la compensación que han ganado.",
+    "heroButton1": "Portal de Veteranos",
+    "heroButton2": "Panel de Consultor"
+  },
+  "features": {
+    "expertGuidance": {
+      "title": "Orientación Experta",
+      "description": "Consultores profesionales con conocimiento profundo de los sistemas y regulaciones del VA"
+    },
+    "securePlatform": {
+      "title": "Plataforma Segura", 
+      "description": "Seguridad a nivel bancario para proteger su información personal y médica sensible"
+    },
+    "dedicatedSupport": {
+      "title": "Apoyo Dedicado",
+      "description": "Apoyo individual durante todo su proceso de reclamos"
+    },
+    "aiAnalysis": {
+      "title": "Análisis Impulsado por IA",
+      "description": "Tecnología avanzada para fortalecer sus reclamos e identificar evidencia faltante"
+    },
+    "documentManagement": {
+      "title": "Gestión de Documentos",
+      "description": "Almacenamiento organizado y seguimiento de todos sus documentos importantes de reclamos"
+    },
+    "mentalHealthSupport": {
+      "title": "Apoyo de Salud Mental",
+      "description": "Recursos y consultas para apoyar su bienestar general"
+    }
+  },
+  "stats": {
+    "successRate": "Tasa de Éxito",
+    "benefitsSecured": "Beneficios Asegurados", 
+    "veteransServed": "Veteranos Atendidos",
+    "avgResolutionTime": "Tiempo Promedio de Resolución"
+  },
+  "auth": {
+    "welcomeBack": "Bienvenido de Vuelta",
+    "signInSubtitle": "Inicie sesión en su cuenta de KAL Claims Companion",
+    "createAccount": "Crear Cuenta",
+    "registerSubtitle": "Únase a KAL Claims Companion hoy",
+    "veteran": "Veterano",
+    "consultant": "Consultor",
+    "email": "Dirección de Correo Electrónico",
+    "password": "Contraseña",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "phoneNumber": "Número de Teléfono",
+    "confirmPassword": "Confirmar Contraseña",
+    "rememberMe": "Recordarme",
+    "forgotPassword": "¿Olvidó su contraseña?",
+    "signIn": "Iniciar Sesión",
+    "alreadyHaveAccount": "¿Ya tiene una cuenta?",
+    "dontHaveAccount": "¿No tiene una cuenta?",
+    "signInHere": "Inicie sesión aquí",
+    "signUpHere": "Regístrese aquí",
+    "securityNotice": "Sus datos están protegidos con seguridad a nivel bancario",
+    "encryptionNotice": "Su información está cifrada y segura"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "view": "Ver",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "close": "Cerrar"
+  }
+}
