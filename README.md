@@ -5,8 +5,6 @@
   
   # KAL's Consulting - Veterans Benefits App
   
-  ## 🇺🇸 Welcome Kevin Lee! 🇺🇸
-  
   ### *Premium Veterans Benefits Consulting & Advocacy Platform*
   
   ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
